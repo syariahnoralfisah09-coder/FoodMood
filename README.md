@@ -9,7 +9,7 @@ Repository ini digunakan untuk belajar manajemen konfigurasi, khususnya version 
 ## Progress Belajar
 - [x] Setup Git lokal
 - [x] Buat repository GitHub
-- [ ] Commit pertama
+- [x] Commit pertama
 - [ ] Branching
 - [ ] Collaboration
 
