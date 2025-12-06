@@ -1,27 +1,48 @@
 # Manajemen Konfigurasi dengan Git - Syariah Nor Alfisah
 NIM: [240104040130]
-Kelas: [Teknologi Informasi 24 A]
+Kelas: [TEKNOLOGI INFORMASI 24 A]
 
 ## Tentang Repository
-Repository ini dibuat untuk memenuhi Tugas 6 Pertemuan 12 pada mata kuliah Rekayasa Perangkat Lunak (RPL).
-Repository ini digunakan untuk belajar manajemen konfigurasi, khususnya version control menggunakan Git dan GitHub.
+Repository ini dibuat untuk memenuhi Tugas 6 Pertemuan 12 pada mata kuliah Rekayasa Perangkat Lunak (RPL).  
+Repository ini digunakan untuk mempraktikkan penggunaan Git dan GitHub sebagai alat version control, termasuk pembuatan repository, commit, update file, serta pengaturan struktur folder proyek.
 
 ## Progress Belajar
 - [x] Setup Git lokal
 - [x] Buat repository GitHub
 - [x] Commit pertama
+- [x] Membuat struktur folder
 - [ ] Branching
 - [ ] Collaboration
 
 ## Struktur Folder
-Struktur folder yang akan dibuat pada commit berikutnya:
+Struktur folder pada repository ini adalah sebagai berikut:
 
-src/
-docs/
-assets/
+FoodMood/
+│
+├── src/
+│ └── main.py # Source code aplikasi
+│
+├── docs/
+│ └── design.md # Dokumentasi proyek
+│
+└── assets/
+└── placeholder.txt # Folder aset
 
-## Deskripsi Aplikasi Impian
-Aplikasi ini disiapkan sebagai proyek latihan dalam mata kuliah RPL, yang akan berisi source code, dokumentasi, dan aset pendukung.
+
+## Deskripsi Aplikasi
+Aplikasi **FoodMood** merupakan proyek latihan untuk menerapkan konsep manajemen konfigurasi perangkat lunak.  
+Di dalamnya terdapat:
+- file sumber (src),
+- dokumentasi (docs),
+- serta aset pendukung (assets).
+
+Seluruh perubahan, update, dan commit dilakukan menggunakan GitHub sebagai alat version control.
+
+## Riwayat Commit Utama
+- docs: initial commit dengan README template  
+- docs: update progress belajar  
+- feat: tambah struktur folder aplikasi  
+- fix: perbaikan file dalam folder tertentu  
 
 ## Lisensi
 Proyek ini menggunakan MIT License.
