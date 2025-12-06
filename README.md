@@ -40,8 +40,8 @@ Seluruh perubahan, update, dan commit dilakukan menggunakan GitHub sebagai alat 
 
 ## Riwayat Commit Utama
 - docs: initial commit dengan README template  
-- docs: update progress belajar  
-- feat: tambah struktur folder aplikasi  
+- docs: update progress belajar - setup completed  
+- feat: tambah struktur folder aplikasi Impian
 - fix: perbaikan file dalam folder tertentu  
 
 ## Lisensi
